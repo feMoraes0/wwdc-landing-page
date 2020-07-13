@@ -2,11 +2,21 @@
   font-family: 'SF Pro Text';
   src: url(./assets/fonts/SF-Pro-Text-Regular.otf);
 }
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url(./assets/fonts/SF-Pro-Display-Regular.otf);
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'SF Pro Text';
+}
+
+html {
+  width: 100vw;
 }
 
 body {

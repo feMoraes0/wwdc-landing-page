@@ -1,0 +1,58 @@
+section#hero {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section#hero h1 {
+  font-size: 48px;
+  line-height: 52px;
+  font-weight: 600;
+  color: #F5F5F7;
+  font-family: 'SF Pro Display';
+  letter-spacing: -0.144px;
+  margin-bottom: 25px;
+}
+
+section#hero h6 {
+  font-size: 21px;
+  line-height: 29px;
+  font-weight: normal;
+  color: #FFFFFF;
+  font-family: 'SF Pro Display';
+  letter-spacing: 0.231px;
+  width: 45%;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+section#hero a {
+  font-size: 21px;
+  line-height: 29px;
+  font-weight: normal;
+  color: #2997FF;
+  text-decoration: none;
+  font-family: 'SF Pro Display';
+  letter-spacing: 0.231px;
+  display: flex;
+  align-items: center;
+}
+
+section#hero a img {
+  margin-left: 5px;
+}
+
+section#hero div.background-images {
+  max-width: 100vw;
+  margin-top: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+section#hero div.background-images img {
+  width: 33%;
+  max-width: 640px; /* 1920 divided by 3 */
+}
