@@ -7,7 +7,7 @@ div.card-info {
 }
 
 div.card-info div.icon {
-  width: 98px;
+  min-width: 98px;
   height: auto;
   display: flex;
   align-items: flex-start;
@@ -24,6 +24,17 @@ div.card-info div.body h1 {
   font-size: 32px;
   line-height: 36px;
   font-weight: 600;
+  display: flex;
+  flex-direction: column;
+}
+
+div.card-info div.body div.description {
+  display: flex;
+  flex-direction: column;
+}
+
+div.card-info div.body div.description div.divider {
+  margin-top: 14px;
 }
 
 div.card-info div.body div.description p {
@@ -42,4 +53,14 @@ div.card-info div.body div.description span {
   letter-spacing: -0.374px;
   color: #888888;
   font-weight: normal;
+}
+
+div.card-info div.body div.description a {
+  font-family: 'SF Pro Text';
+  font-size: 17px;
+  line-height: 25px;
+  letter-spacing: -0.37px;
+  color: #2997FF;
+  text-decoration: none;
+  margin-top: 14px;
 }
