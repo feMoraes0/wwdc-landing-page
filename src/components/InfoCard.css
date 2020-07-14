@@ -1,0 +1,45 @@
+div.card-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+div.card-info div.icon {
+  width: 98px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  padding-right: 50px;
+}
+
+div.card-info div.icon img {
+  width: 48px;
+  height: 48px;
+}
+
+div.card-info div.body h1 {
+  font-family: 'SF Pro Display';
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 600;
+}
+
+div.card-info div.body div.description p {
+  font-family: 'SF Pro Text';
+  font-size: 17px;
+  line-height: 25px;
+  letter-spacing: -0.374px;
+  color: #F5F5F7;
+  margin-top: 14px;
+}
+
+div.card-info div.body div.description span {
+  font-family: 'SF Pro Text';
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: -0.374px;
+  color: #888888;
+  font-weight: normal;
+}
