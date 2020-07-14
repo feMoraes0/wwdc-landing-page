@@ -1,0 +1,77 @@
+footer {
+  width: 100vw;
+  padding: 0px 15.97vw;
+}
+
+footer div.top {
+  border-top: 1px solid #333333;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #333333;
+  margin-bottom: 8px;
+}
+
+footer div.top span {
+  color: #6E6E73;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: 'SF Pro Text';
+}
+
+footer div.top span a {
+  color: #2997FF;
+  text-decoration: none;
+}
+
+footer div.breadcrumb {
+  color: #A1A1A6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 22px;
+}
+
+footer div.breadcrumb p.indicator {
+  margin: 0px 7.5px;
+}
+
+footer div.breadcrumb p.current {
+  font-family: 'SF Pro Text';
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: -0.12px;
+}
+
+footer div.bottom {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 29px;
+}
+
+footer div.bottom div {
+  display: flex;
+  flex-direction: row;
+}
+
+footer div.bottom p:first-child {
+  margin-right: 19px;
+  border: none !important;
+}
+
+footer div.bottom div p {
+  margin-right: 0px !important;
+  padding: 0px 10px;
+  border-left: 1px solid #6E6E73;
+  border-right: 1px solid #6E6E73;
+}
+
+footer div.bottom div p:last-child {
+  border: none !important;
+}
+
+footer div.bottom p {
+  color: #6E6E73;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: -0.12px;
+}

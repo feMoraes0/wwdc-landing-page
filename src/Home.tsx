@@ -3,6 +3,7 @@ import './Home.css';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Infos from './components/Infos';
+import Footer from './components/Footer';
 
 const Home = () => {
   return (
@@ -12,6 +13,8 @@ const Home = () => {
       <Hero />
       <div style={{ marginBottom: '125px' }} />
       <Infos />
+      <div style={{ marginBottom: '65px' }} />
+      <Footer />
     </main>
   );
 }
