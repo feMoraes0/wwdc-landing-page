@@ -1,12 +1,12 @@
 <h1 align="center">WWDC Landing Page</h1>
 
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-001.png">
-  <img width="300" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-002.png">
+  <img width="400" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-001.png">
+  <img width="400" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-002.png">
 </p>
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-003.png">
-  <img width="300" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-004.png">
+  <img width="400" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-003.png">
+  <img width="400" src="https://raw.githubusercontent.com/feMoraes0/project-prints/master/wwdc-landing-page/print-004.png">
 </p>
 
 ## :rocket: Knowledges
